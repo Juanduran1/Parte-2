@@ -1,6 +1,6 @@
 <?php
 
-echo "Primera version";
+echo "Segunda version";
 
 
 ?>
